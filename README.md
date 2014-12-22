@@ -32,7 +32,10 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A balade of a preist that loste his nose for sayinge of masse as I suppose1570Approx. 6 KB of XML-en
+
+1. A balade of a preiſt that loſte his noſe
+For ſayinge of maſſe as I ſuppoſe.
+
 **Types of content**
 
   * There are 102 **verse** lines!
